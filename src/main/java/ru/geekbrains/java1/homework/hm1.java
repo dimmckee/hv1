@@ -5,7 +5,6 @@ public class hm1 {
         System.out.println(a * (b + (c / d)));
         return a * (b + (c / d));
     }
-
     public static boolean task10and20(int x1, int x2) {
         int inputAB ( int x1, int x2){
             int sum = x1 + x2;
